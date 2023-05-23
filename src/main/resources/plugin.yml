@@ -1,0 +1,16 @@
+name: MMCEwokHunt
+version: '${project.version}'
+main: mandomc.mmcewokhunt.MMCEwokHunt
+api-version: 1.19
+load: POSTWORLD
+authors: [ AstuteFlamez ]
+description: Ewok Hunt!
+commands:
+  joinqueue:
+  leavequeue:
+  forcestart:
+  forcestop:
+  yaw:
+  pitch:
+  locationfinder:
+  test:
